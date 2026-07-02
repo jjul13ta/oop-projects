@@ -4,11 +4,11 @@
 
 This project is a simple Hotel Management System developed as part of my Object-Oriented Programming (OOP) practice.
 
-## 🧩 Description
+##  Description
 
 The system allows managing hotel reservations and calculating the cost of stays based on check-in and check-out dates. It also handles additional reservation logic using object-oriented principles such as inheritance and encapsulation.
 
-## ⚙️ Features
+##  Features
 
 - Create hotel reservations
 - Calculate stay duration
@@ -16,15 +16,15 @@ The system allows managing hotel reservations and calculating the cost of stays 
 - Handle additional reservation types
 - Object-Oriented Programming structure (classes, inheritance)
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - C#
 - .NET Framework / Windows Forms (if applicable)
 - Visual Studio
 
-## 🎯 Purpose
+##  Purpose
 
 This project was developed as a learning exercise to practice OOP concepts in a real-world scenario.
 
-## 👨‍💻 Author
+##  Author
 Julieta Natoli
