@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HospitalPrivado.Consulta">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABEAAAIRAAICAAACABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Consulta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalPrivado.Especialidad">
+    <Position X="11.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAABAAAACAgAAAgIAAAAAAAAAAAAAAgAAAAIA=</HashCode>
+      <FileName>Especialidad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalPrivado.Estudio">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAABAQAIAAAACAAAAAAAAAAAAAggACAIAgAAAAIAAQ=</HashCode>
+      <FileName>Estudio.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HospitalPrivado.HistoriaClinica">
+    <Position X="15" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAACACAAAAAgAAAAAAAAAgAAAAIA=</HashCode>
+      <FileName>HistoriaClinica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalPrivado.Hospital">
+    <Position X="13" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAEAAAABAAAIAAAACAAACAAAAAAACAAAAAgAAAAJA=</HashCode>
+      <FileName>Hospital.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalPrivado.Medico">
+    <Position X="7.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAIAQAACCEAAAEgAAABAAAAgCAAAIAAAAAABA=</HashCode>
+      <FileName>Medico.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HospitalPrivado.MedicoClinico">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAABAAAAAQ=</HashCode>
+      <FileName>MedicoClinico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalPrivado.OrdenMedica">
+    <Position X="13" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAAQAAAAEAAAAAAAAAAAAAABAAAAAQAACAAAA=</HashCode>
+      <FileName>OrdenMedica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalPrivado.Paciente">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAACEAAAAgAAAAAAAAgAgAAIAIAAAAAA=</HashCode>
+      <FileName>Paciente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalPrivado.RecetaMedica">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABEAAAARAAIAEAACAAAAAAAAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>RecetaMedica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalPrivado.Resultado">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAEAAAEAAAABAAAAAAAAAAQAAAAEAAA=</HashCode>
+      <FileName>Resultado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HospitalPrivado.Turno">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABEAAAARAAAAEAAAAAAAAAAAABAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Turno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="HospitalPrivado.IFacturable" Collapsed="true">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>IFacturable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
